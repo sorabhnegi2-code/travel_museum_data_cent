@@ -1,24 +1,22 @@
-# travel_museum_data_cent
-cloud data center for a museum
 # Travel Museum Digital Cloud Center
 
-## 📌 Overview
+#Overview
 A cloud-based data management system built on AWS to manage museum travel data efficiently.
 
-## 🚀 Features
+#Features
 - DynamoDB-based storage
 - Cloud architecture using AWS
 - Scalable and serverless design
 - Data analytics integration (planned)
 
-## 🛠️ Tech Stack
+#Tech Stack
 - AWS (DynamoDB, Lambda, S3)
 - Python
 - Cloud Computing Concepts
 
-## 📊 Architecture
+#Architecture
 
-## 📂 Project Structure
+#Project Structure
 
-## 👨‍💻 Author
+#Author
 Sorabh Negi
